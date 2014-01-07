@@ -1,0 +1,1 @@
+var width = $("#timeblock").css("width");
